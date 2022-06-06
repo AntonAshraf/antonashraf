@@ -8,7 +8,9 @@
   <a href="https://www.instagram.com/antonashraf/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/><br>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=antonashraf&style=flat-square&color=blue" alt=""/>
+  <a href ="https://github.com/AntonAshraf">
+    <img src="https://komarev.com/ghpvc/?username=antonashraf&style=flat-square&color=blue" alt=""/>
+  </a>
 </div>
 
 <h1 align="center">Hi there, I'm Anton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px"></h1>
