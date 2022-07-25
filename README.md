@@ -20,7 +20,7 @@
 
 - 🏠 Living in Cairo, Egypt
 - 🏅 Interested in Competitive Programming
-- 🌱 I’m currently learning Full stack Web Development
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me: **anton0ashraf@gmail.com**
 
 </p>
